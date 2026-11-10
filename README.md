@@ -191,4 +191,4 @@ This repository serves as the official landing page for ESBUnitConv Pro. The sof
 **Get the most recent version of ESBUnitConv Pro today!**
 
 ---
-**Last updated:** 2026-11-09 07:43:37 UTC
+**Last updated:** 2026-11-10 01:55:01 UTC
